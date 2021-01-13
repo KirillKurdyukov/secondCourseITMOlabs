@@ -8,6 +8,7 @@ using namespace std;
 
 #define MAXN 10001
 
+//Тарьян
 vector<vector<int >> gr(MAXN);
 bool used[MAXN];
 vector<int> s;

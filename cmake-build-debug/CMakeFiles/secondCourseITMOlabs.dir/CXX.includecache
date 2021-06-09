@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kirilloid/CLionProjects/secondCourseITMOlabs/Algoritm labs/Математика, криптография/A.cpp
+bits/stdc++.h
+-
+

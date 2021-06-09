@@ -1,0 +1,3 @@
+/home/kirilloid/CLionProjects/secondCourseITMOlabs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kirilloid/CLionProjects/secondCourseITMOlabs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kirilloid/CLionProjects/secondCourseITMOlabs/cmake-build-debug/CMakeFiles/secondCourseITMOlabs.dir

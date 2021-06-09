@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/secondCourseITMOlabs.dir/Algoritm_labs/Математика,_криптография/D.cpp.o CMakeFiles/secondCourseITMOlabs.dir/Algoritm_labs/Математика,_криптография/E.cpp.o CMakeFiles/secondCourseITMOlabs.dir/Algoritm_labs/Математика,_криптография/F.cpp.o -o secondCourseITMOlabs 
